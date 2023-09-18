@@ -1,0 +1,90 @@
+.container {
+    margin-top: 100px;
+  }
+  
+  img {
+    float: left;
+    display: block;
+  }
+  
+  p {
+    font-size: 35px;
+    font-weight: 500;
+  }
+  li {
+    list-style-type: none;
+  }
+  
+  span {
+    color: gray;
+    font-weight: 200;
+  }
+  .input {
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  
+  .current {
+    display: block;
+    float: inherit;
+    margin: 25px;
+    text-align: right;
+  }
+  
+  .card-text {
+    font-size: medium;
+  }
+  
+  .card {
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .dates {
+    font-size: 18px;
+    color: black;
+    font-weight: 400;
+  }
+  
+  .weather-app {
+    border: 1px solid;
+    padding: 15px;
+    margin: 20px auto;
+    max-width: 835px;
+  }
+  
+  .search-form {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .find-location {
+    display: block;
+    width: 200px;
+    padding: 55px;
+    font-size: 25px;
+  }
+  
+  .current-temp {
+    font-size: 35px;
+    font-weight: 500;
+    color: black;
+  }
+  
+  .current-weather {
+    background-color: rgb(227, 248, 113);
+    color: black;
+  }
+  
+  .currentTemp {
+    font-size: 35px;
+    font-weight: 500;
+    color: black;
+  }
+  footer {
+    text-align: center;
+  }
+  
